@@ -22,9 +22,9 @@ CREATE TABLE student (
 
 -- 3. Populate initial student records
 INSERT INTO student VALUES 
-    (101, 'prathamesh', 'ECE'),
-    (102, 'Himanshu', 'CSE'),
-    (103, 'Krishna', 'MECH');
+    (101, 'Shivtej', 'ECE'),
+    (102, 'Reet', 'CSE'),
+    (103, 'Jay', 'CIVIL');
 
 -- 4. Correct branch assignment (Fixes Himanshu's record)
 UPDATE student 
